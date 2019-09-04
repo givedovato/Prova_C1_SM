@@ -1,0 +1,17 @@
+h1,h3{
+    margin: 1px;
+    color: #565656;
+}
+
+h2{
+    margin: 1px;
+    color: #011e7f;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 19px;
+}
