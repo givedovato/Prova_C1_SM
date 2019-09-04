@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Tributo a Michael Jackson</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+</head>
+
+<body align="center">
+    
+    <h1>Tributo a Michael Jackson celebra legado do Rei do Pop</h1>
+    <img title="Foto: Divulgação / Rodrigo Teaser" src="MJackson.jpg" alt="">
+
+
+    <h2>Serão apresentados clássicos como “Billie Jean”, “Beat It”, “Thriller”, “Black or White”, entre outros</h2>
+
+    <p> Há 10 anos, o mundo era surpreendido com a morte de Michael Jackson. 
+        Para lembrar de todo o legado que o artista deixou, o Espaço Patrick Ribeiro
+        realizará o “Tributo ao Rei do Pop”, no dia 17 de maio, a partir das 22 horas, no
+        Aeroporto de Vitória. </p>
+
+
+    <p> A apresentação é considerada o maior tributo latino-americano a este ícone da música.
+        Uma produção com banda ao vivo, bailarinos, figurinos, efeitos especiais,
+        elevadores cênicos e muito mais. </p>
+
+    <p>Rodrigo Teaser será o astro do pop no palco. Ele começou a imitá-lo aos 9 anos, e após
+        a a morte de Michael Jackson, teve a ideia de produzir um mega tributo, um show com todos
+        os elementos que ele tinha em seus shows. </p>
+
+    <h3>Confira uma das apresentações de Rodrigo Teaser:</h3>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/kJeZa0UC2GM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+
+    <p> Entre os clássicos tocados estarão “Billie Jean”, “Beat It”, “Thriller”, “Black or White”, entre outras.
+        E não para por aí, em meio a tantos shows e homenagens, Rodrigo Teaser trabalha arduamente para o lançamento de
+        seu EP
+        totalmente autoral, ainda sem título. </p>
+
+    <p> Por enquanto, ele agrada ao público com as apresentações do Rei do Pop. Os ingressos estão sendo vendidos pelo
+        site
+        www.eventbrite.com.br e na bilheteria do local. </p>
+
+    <footer><a href="https://esbrasil.com.br/tributo-a-michael-jackson/">Referencias usadas para criação dessa pagina</footer>
+
+</body>
+
+</html>
